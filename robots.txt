@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-g2q1pg.indocuan.online/sitemap.xml
